@@ -1,4 +1,4 @@
-# Terra-Opus--Wiki
+# Terra Opus Wiki
 
 Click here or click on the Wiki button to access the wiki!
 ---
