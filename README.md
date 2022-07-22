@@ -1,6 +1,6 @@
 # Terra Opus Wiki
 
-Click here or click on the Wiki button to access the wiki!
+Click the wiki button or here to view the Terra Opus Wiki
 ---
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
